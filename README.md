@@ -1,6 +1,6 @@
 # Steiner_Point_Generation
 
-- This code generates the steiner point for basic shapes like triangle, rectangle, etc. which can be extended further. 
+- This code generates the steiner point(s) for basic shapes like triangle, rectangle, etc. which can be extended further
 
 - Python was used to develop this program and "turtle" was used used to provide the simulation
 
