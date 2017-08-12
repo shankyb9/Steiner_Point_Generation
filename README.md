@@ -2,7 +2,7 @@
 
 - This code generates the steiner point(s) for basic shapes like triangle, rectangle, etc. which can be extended further
 
-- Python was used to develop this program and "turtle" was used to provide the simulation
+- Python was used to develop this program and simulation was also provided
 
 - Points need to be supplied as given in "Output_Points.png"
 
